@@ -1,47 +1,124 @@
-# Hi there, I'm Sathwik👋
+# Hi there, I'm Sathwik R Udupi 👋
 
-### 🚀 Developer | AI Enthusiast | UI Builder
+### Software Developer | AI & Machine Learning Enthusiast | Founder @ Sath Digital
 
-I'm a passionate software developer who loves building interactive web applications and experimenting with Generative AI. I focus on bridging the gap between powerful backend models and sleek, user-friendly interfaces.
+I'm a passionate Software Developer and BCA student who enjoys building intelligent applications, scalable web solutions, and data-driven products that solve real-world problems.
 
-- 🔭 I’m currently building **AI-powered web apps**
-- 🌱 I’m currently learning deeper integrations with **LLMs (Llama, Gemini)**
-- 👯 I’m looking to collaborate on **open-source AI projects**
-- 📫 How to reach me: **bosssathwik007@gmail.com/ https://www.linkedin.com/in/sathwik-r-udupi-74750034a**
+Currently, I'm expanding my expertise in **Software Development, Artificial Intelligence, Machine Learning, Data Analytics, and Cloud Technologies** while working on practical projects and contributing to meaningful tech initiatives.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-**AI & Cloud:**
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-Fast_Inference-f55036?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🔥 Featured Project
-
-#### 🤖 [Chinchan Core AI](https://github.com/tmboss007/chinchan-ai)
-A cyberpunk-themed, high-performance AI assistant built with Streamlit. It features dual AI engine routing (Groq & Gemini 2.0), instant persona switching, and custom CSS motion graphics.
-> 🔴 **[Try the Live App Here](https://chinchan-core-ai.streamlit.app)**
+- 🎓 BCA Student
+- 💻 Software Development Intern at **Peomiz**
+- 🤖 AI & Machine Learning Intern at **3Skill**
+- 🚀 Founder of **Sath Digital**
+- 🌱 Currently learning:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Data Analytics
+  - Cloud Computing
+- 💡 Interested in building AI-powered products and scalable software solutions.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmboss007&show_icons=true&theme=tokyonight" alt="tmboss007's GitHub Stats" />
-</div>
+### Languages
+- Python
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- React
+- Node.js
+- Express.js
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- Jupyter Notebook
+- Vercel
+
+### Areas of Interest
+- Software Development
+- Machine Learning
+- Artificial Intelligence
+- Data Analytics
+- Natural Language Processing
+- Technical SEO
 
 ---
 
-### 📫 Let's Connect!
+# 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik-r-udupi-74750034a)
+### 🍷 Wine Quality Prediction
+Built an end-to-end Machine Learning pipeline to predict wine quality using classification algorithms with feature engineering, model evaluation, and hyperparameter tuning.
+
+**Tech:** Python • Pandas • Scikit-learn
+
+---
+
+### 👨‍💼 AI-Based Hiring Prediction System
+Developed an intelligent hiring prediction system by comparing multiple Machine Learning algorithms and optimizing model performance.
+
+**Tech:** Python • Scikit-learn • Machine Learning
+
+---
+
+### 🛡️ Fake Job Posting Detection
+Built an NLP-powered Machine Learning system capable of detecting fraudulent job postings using TF-IDF vectorization and multiple classification models.
+
+**Tech:** Python • NLP • Scikit-learn
+
+---
+
+### 🌐 Portfolio Website
+A modern portfolio showcasing my projects, experience, and technical journey.
+
+---
+
+## 📈 Currently Working On
+
+- AI-powered applications
+- Full Stack Web Development
+- Open Source Contributions
+- Personal Branding
+- Real-world Machine Learning Projects
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready AI applications
+- Contribute to Open Source
+- Strengthen Full Stack Development skills
+- Publish technical blogs
+- Grow as a Software Engineer
+- Land opportunities in Software Development & AI
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 🌐 Portfolio: https://YOUR-PORTFOLIO
+- 📧 Email: bosssathwik007@gmail.com
+
+---
+
+> *"Building technology that solves real-world problems, one project at a time."*
